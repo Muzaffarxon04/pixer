@@ -46,7 +46,7 @@
     display: flex; 
     align-items: center;
     margin-left:auto;
-    margin-top: -10px;
+    margin-top: -5px;
 }
 .list,.link{
     color:black;
