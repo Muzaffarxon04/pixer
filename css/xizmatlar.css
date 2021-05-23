@@ -12,7 +12,6 @@ body{
     background:#ffffff;
     
 }
-
 .sitenav{
     display: flex;
     align-items:center;
@@ -126,7 +125,10 @@ body{
     box-shadow: none;
 }
 
-
+header{
+    width: 1200px;
+    margin: 0 auto;
+}
 .header{
     height: 284px;
     width: 1300px;
@@ -225,6 +227,10 @@ ul li a{
     
     
 }
+form{
+    width: 1200px;
+    margin: 0;
+}
 .form{
     height: 270px;
     width: 348px;
@@ -254,7 +260,10 @@ input{
 }
 /* footer finished */
 /* start footer menu */
-
+footer{
+    width: 1200px;
+    margin: 0 auto;
+}
 .footer{
     
     width: 1300px;
